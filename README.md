@@ -21,7 +21,8 @@ Bu projeyi geliştirirken aşağıdaki kritik siber güvenlik ve yazılım kavra
 3.	Hata Toleransı: ValueError yönetimi ile programın beklenmedik durumlarda çökmesi engellendi.
 
    ![şifre oluşturucu](https://github.com/user-attachments/assets/48bbd4a8-24d2-4a8f-a3be-8a21aa983b1f)
-   Geliştiren: Mercan Köseoğlu
+   
+Geliştiren: Mercan Köseoğlu
 
 Data Analyst & SAP ABAP Consultant
 
